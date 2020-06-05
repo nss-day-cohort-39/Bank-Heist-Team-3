@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "another-bank-heist/1.0.0": {
+        "runtime": {
+          "another-bank-heist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "another-bank-heist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
