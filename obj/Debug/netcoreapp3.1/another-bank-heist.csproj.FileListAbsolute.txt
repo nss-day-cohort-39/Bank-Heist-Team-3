@@ -11,3 +11,16 @@ C:\Users\Owner\workspace\Bank-Heist-Team-3\obj\Debug\netcoreapp3.1\another-bank-
 C:\Users\Owner\workspace\Bank-Heist-Team-3\obj\Debug\netcoreapp3.1\another-bank-heist.dll
 C:\Users\Owner\workspace\Bank-Heist-Team-3\obj\Debug\netcoreapp3.1\another-bank-heist.pdb
 C:\Users\Owner\workspace\Bank-Heist-Team-3\obj\Debug\netcoreapp3.1\another-bank-heist.genruntimeconfig.cache
+C:\Users\ipark\workspace\another-bank-heist\bin\Debug\netcoreapp3.1\another-bank-heist.exe
+C:\Users\ipark\workspace\another-bank-heist\bin\Debug\netcoreapp3.1\another-bank-heist.deps.json
+C:\Users\ipark\workspace\another-bank-heist\bin\Debug\netcoreapp3.1\another-bank-heist.runtimeconfig.json
+C:\Users\ipark\workspace\another-bank-heist\bin\Debug\netcoreapp3.1\another-bank-heist.runtimeconfig.dev.json
+C:\Users\ipark\workspace\another-bank-heist\bin\Debug\netcoreapp3.1\another-bank-heist.dll
+C:\Users\ipark\workspace\another-bank-heist\bin\Debug\netcoreapp3.1\another-bank-heist.pdb
+C:\Users\ipark\workspace\another-bank-heist\obj\Debug\netcoreapp3.1\another-bank-heist.csprojAssemblyReference.cache
+C:\Users\ipark\workspace\another-bank-heist\obj\Debug\netcoreapp3.1\another-bank-heist.AssemblyInfoInputs.cache
+C:\Users\ipark\workspace\another-bank-heist\obj\Debug\netcoreapp3.1\another-bank-heist.AssemblyInfo.cs
+C:\Users\ipark\workspace\another-bank-heist\obj\Debug\netcoreapp3.1\another-bank-heist.csproj.CoreCompileInputs.cache
+C:\Users\ipark\workspace\another-bank-heist\obj\Debug\netcoreapp3.1\another-bank-heist.dll
+C:\Users\ipark\workspace\another-bank-heist\obj\Debug\netcoreapp3.1\another-bank-heist.pdb
+C:\Users\ipark\workspace\another-bank-heist\obj\Debug\netcoreapp3.1\another-bank-heist.genruntimeconfig.cache
