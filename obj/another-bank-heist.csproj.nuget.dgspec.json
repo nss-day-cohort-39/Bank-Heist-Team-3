@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ipark\\workspace\\another-bank-heist\\another-bank-heist.csproj": {}
+    "C:\\Users\\Owner\\workspace\\Bank-Heist-Team-3\\another-bank-heist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ipark\\workspace\\another-bank-heist\\another-bank-heist.csproj": {
+    "C:\\Users\\Owner\\workspace\\Bank-Heist-Team-3\\another-bank-heist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ipark\\workspace\\another-bank-heist\\another-bank-heist.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\workspace\\Bank-Heist-Team-3\\another-bank-heist.csproj",
         "projectName": "another-bank-heist",
-        "projectPath": "C:\\Users\\ipark\\workspace\\another-bank-heist\\another-bank-heist.csproj",
-        "packagesPath": "C:\\Users\\ipark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ipark\\workspace\\another-bank-heist\\obj\\",
+        "projectPath": "C:\\Users\\Owner\\workspace\\Bank-Heist-Team-3\\another-bank-heist.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Owner\\workspace\\Bank-Heist-Team-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ipark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
