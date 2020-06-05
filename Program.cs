@@ -155,7 +155,23 @@ namespace Bank_Heist {
                 Most Secure: {mostSecure}
                 Least Secure: {leastSecure}
             ");
+            
+            foreach (IRobber robber in rolodex)
+            {
+                System.Console.WriteLine($@"
+                    {rolodex.IndexOf(robber)}
+                    Name:{robber.Name} 
+                    Speciality: {robber.GetType().ToString().Split(".")[1]}
+                    Skill Level: {robber.SkillLevel} 
+                    PercentCut: {robber.PercentageCut} ");
+            }
+            // int testNum = -1;
+            // bool test = int.TryParse(Console.ReadLine(), out testNum);
+            // if(testNum == true && testNum)
+            // List<IRobber> crew = new List<IRobber>(){
+                
 
+            // }
         }
 
     }
